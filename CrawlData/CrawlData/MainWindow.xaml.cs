@@ -24,5 +24,10 @@ namespace CrawlData
         {
             InitializeComponent();
         }
+
+        private void LoadData(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
